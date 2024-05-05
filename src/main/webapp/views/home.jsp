@@ -77,7 +77,7 @@
 							key: "rzp_test_4Q9Z4gFWd7z4y1",
 							amount: response.amt,
 							"currency": "INR",
-							"name": "sanyam-test",
+							"name": "Ramkripal_Rahul",
 							"description": "Test ",
 							"image": "https://example.com/your_logo",
 							"order_id": response.id,
@@ -89,9 +89,9 @@
 								alert("payment done")
 							},
 							"prefill": {
-								"name": "sanyam",
-								"email": "sanyam@example.com",
-								"contact": "9999999999"
+								"name": "RamkripalRahul",
+								"email": "dubeyrahul7898@gmail.com",
+								"contact": "7898****54"
 							},
 							"notes": {
 								"address": "test"
